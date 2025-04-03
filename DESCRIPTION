@@ -1,6 +1,6 @@
 Package: strata
 Title: Simple Framework for Simple Automation
-Version: 1.4.3
+Version: 1.4.5
 Authors@R: 
     person("Alexander", "Senetcky", , "asenetcky@gmail.com", 
            role = c("aut", "cre", "cph"),
@@ -20,9 +20,9 @@ Config/testthat/edition: 3
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-03-05 13:25:23 UTC; alex
+Packaged: 2025-04-03 19:43:05 UTC; alex
 Author: Alexander Senetcky [aut, cre, cph]
     (<https://orcid.org/0009-0009-3730-5397>)
 Maintainer: Alexander Senetcky <asenetcky@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-03-05 13:40:02 UTC
+Date/Publication: 2025-04-03 20:10:02 UTC

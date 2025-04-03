@@ -1,3 +1,7 @@
+# strata 1.4.5
+
+* Squashed more execution bugs (#65).
+
 # strata 1.4.3
 
 ## Bug Fixes
